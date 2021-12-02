@@ -1,10 +1,10 @@
 ## My Repository
-*Fav things
-* *List
+##### *Fav things*
+* *List*
   * Music 🎶
   * Food 🍜
   * Drama 🎞️
-* *Priority
+* *Priority*
    1. Sleep 💤
    2. Food 🍗
    3. Studies 📚
